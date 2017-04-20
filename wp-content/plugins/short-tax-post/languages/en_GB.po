@@ -1,0 +1,478 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: reales\n"
+"POT-Creation-Date: 2015-05-01 02:59+0200\n"
+"PO-Revision-Date: 2015-05-01 02:59+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+"X-Poedit-SearchPathExcluded-2: css\n"
+"X-Poedit-SearchPathExcluded-3: languages\n"
+
+#: short_tax_post.php:551 short_tax_post.php:624
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: short_tax_post.php:724 short_tax_post.php:1325 short_tax_post.php:1503
+#: short_tax_post.php:1606 short_tax_post.php:1674
+msgid "Browse..."
+msgstr ""
+
+#: short_tax_post.php:725 short_tax_post.php:1036 short_tax_post.php:1144
+msgid "Delete"
+msgstr ""
+
+#: short_tax_post.php:736
+msgid "Properties"
+msgstr ""
+
+#: short_tax_post.php:737
+msgid "Property"
+msgstr ""
+
+#: short_tax_post.php:738
+msgid "Add New Property"
+msgstr ""
+
+#: short_tax_post.php:739
+msgid "Add Property"
+msgstr ""
+
+#: short_tax_post.php:740 short_tax_post.php:1340 short_tax_post.php:1621
+msgid "Edit"
+msgstr ""
+
+#: short_tax_post.php:741
+msgid "Edit Property"
+msgstr ""
+
+#: short_tax_post.php:742
+msgid "New Property"
+msgstr ""
+
+#: short_tax_post.php:743 short_tax_post.php:1343 short_tax_post.php:1624
+msgid "View"
+msgstr ""
+
+#: short_tax_post.php:744
+msgid "View Property"
+msgstr ""
+
+#: short_tax_post.php:745
+msgid "Search Properties"
+msgstr ""
+
+#: short_tax_post.php:746
+msgid "No Properties found"
+msgstr ""
+
+#: short_tax_post.php:747
+msgid "No Properties found in Trash"
+msgstr ""
+
+#: short_tax_post.php:748
+msgid "Parent Property"
+msgstr ""
+
+#: short_tax_post.php:763
+msgid "Property Categories"
+msgstr ""
+
+#: short_tax_post.php:764
+msgid "Add New Property Category"
+msgstr ""
+
+#: short_tax_post.php:765
+msgid "New Property Category"
+msgstr ""
+
+#: short_tax_post.php:775
+msgid "Property Types"
+msgstr ""
+
+#: short_tax_post.php:776
+msgid "Add New Property Type"
+msgstr ""
+
+#: short_tax_post.php:777
+msgid "New Property Type"
+msgstr ""
+
+#: short_tax_post.php:804
+msgid "Location"
+msgstr ""
+
+#: short_tax_post.php:805 short_tax_post.php:1365
+msgid "Details"
+msgstr ""
+
+#: short_tax_post.php:806
+msgid "Additional Information"
+msgstr ""
+
+#: short_tax_post.php:807
+msgid "Amenities"
+msgstr ""
+
+#: short_tax_post.php:808
+msgid "Floor Plans"
+msgstr ""
+
+#: short_tax_post.php:809 short_tax_post.php:1337
+msgid "Agent"
+msgstr ""
+
+#: short_tax_post.php:810
+msgid "Video"
+msgstr ""
+
+#: short_tax_post.php:811
+msgid "Photo Gallery"
+msgstr ""
+
+#: short_tax_post.php:812 short_tax_post.php:1368
+msgid "Featured"
+msgstr ""
+
+#: short_tax_post.php:825
+msgid "City"
+msgstr ""
+
+#: short_tax_post.php:826
+msgid "Enter a city name"
+msgstr ""
+
+#: short_tax_post.php:831
+msgid "Latitude"
+msgstr ""
+
+#: short_tax_post.php:837
+msgid "Longitude"
+msgstr ""
+
+#: short_tax_post.php:854
+msgid "Address"
+msgstr ""
+
+#: short_tax_post.php:855
+msgid "Enter address"
+msgstr ""
+
+#: short_tax_post.php:856
+msgid "Place pin by address"
+msgstr ""
+
+#: short_tax_post.php:861
+msgid "County/State"
+msgstr ""
+
+#: short_tax_post.php:862
+msgid "Enter county/state"
+msgstr ""
+
+#: short_tax_post.php:867
+msgid "Neighborhood"
+msgstr ""
+
+#: short_tax_post.php:868
+msgid "Enter neighborhood"
+msgstr ""
+
+#: short_tax_post.php:877
+msgid "Zip Code"
+msgstr ""
+
+#: short_tax_post.php:878
+msgid "Enter zip code"
+msgstr ""
+
+#: short_tax_post.php:883
+msgid "Country"
+msgstr ""
+
+#: short_tax_post.php:908
+msgid "Price"
+msgstr ""
+
+#: short_tax_post.php:909
+msgid "Enter price"
+msgstr ""
+
+#: short_tax_post.php:914
+msgid "Price Label (e.g. \"per month\")"
+msgstr ""
+
+#: short_tax_post.php:915
+msgid "Enter price label"
+msgstr ""
+
+#: short_tax_post.php:920
+msgid "Area"
+msgstr ""
+
+#: short_tax_post.php:921
+msgid "Enter area"
+msgstr ""
+
+#: short_tax_post.php:928
+msgid "Bedrooms"
+msgstr ""
+
+#: short_tax_post.php:929
+msgid "Enter number of bedrooms"
+msgstr ""
+
+#: short_tax_post.php:934
+msgid "Bathrooms"
+msgstr ""
+
+#: short_tax_post.php:935
+msgid "Enter number of bathrooms"
+msgstr ""
+
+#: short_tax_post.php:974
+msgid "No addtional information fields defined"
+msgstr ""
+
+#: short_tax_post.php:1020
+msgid "No amenities defined"
+msgstr ""
+
+#: short_tax_post.php:1040
+msgid "Add plan image"
+msgstr ""
+
+#: short_tax_post.php:1079
+msgid "Assign an Agent"
+msgstr ""
+
+#: short_tax_post.php:1098 short_tax_post.php:1102 short_tax_post.php:1106
+msgid "youtube"
+msgstr ""
+
+#: short_tax_post.php:1099 short_tax_post.php:1103 short_tax_post.php:1107
+msgid "vimeo"
+msgstr ""
+
+#: short_tax_post.php:1115
+msgid "Video source"
+msgstr ""
+
+#: short_tax_post.php:1123
+msgid "Video ID"
+msgstr ""
+
+#: short_tax_post.php:1124
+msgid "Enter video ID"
+msgstr ""
+
+#: short_tax_post.php:1148
+msgid "Add photo"
+msgstr ""
+
+#: short_tax_post.php:1167 short_tax_post.php:1522
+msgid "Set as Featured"
+msgstr ""
+
+#: short_tax_post.php:1306
+msgid "Enter property title here"
+msgstr ""
+
+#: short_tax_post.php:1336
+msgid "Agents"
+msgstr ""
+
+#: short_tax_post.php:1338
+msgid "Add New Agent"
+msgstr ""
+
+#: short_tax_post.php:1339
+msgid "Add Agent"
+msgstr ""
+
+#: short_tax_post.php:1341
+msgid "Edit Agent"
+msgstr ""
+
+#: short_tax_post.php:1342
+msgid "New Agent"
+msgstr ""
+
+#: short_tax_post.php:1344
+msgid "View Agent"
+msgstr ""
+
+#: short_tax_post.php:1345
+msgid "Search Agents"
+msgstr ""
+
+#: short_tax_post.php:1346
+msgid "No Agents found"
+msgstr ""
+
+#: short_tax_post.php:1347
+msgid "No Agents found in Trash"
+msgstr ""
+
+#: short_tax_post.php:1348
+msgid "Parent Agent"
+msgstr ""
+
+#: short_tax_post.php:1364
+msgid "About"
+msgstr ""
+
+#: short_tax_post.php:1366 short_tax_post.php:1647
+msgid "Avatar"
+msgstr ""
+
+#: short_tax_post.php:1367
+msgid "User"
+msgstr ""
+
+#: short_tax_post.php:1380
+msgid "Enter agent info here"
+msgstr ""
+
+#: short_tax_post.php:1397
+msgid "Specialities"
+msgstr ""
+
+#: short_tax_post.php:1398
+msgid "Enter specialities"
+msgstr ""
+
+#: short_tax_post.php:1403
+msgid "Email"
+msgstr ""
+
+#: short_tax_post.php:1404
+msgid "Enter email"
+msgstr ""
+
+#: short_tax_post.php:1413
+msgid "Phone"
+msgstr ""
+
+#: short_tax_post.php:1414 short_tax_post.php:1420
+msgid "Enter phone"
+msgstr ""
+
+#: short_tax_post.php:1419
+msgid "Mobile"
+msgstr ""
+
+#: short_tax_post.php:1425
+msgid "Skype"
+msgstr ""
+
+#: short_tax_post.php:1426
+msgid "Enter Skype ID"
+msgstr ""
+
+#: short_tax_post.php:1435
+msgid "Facebook"
+msgstr ""
+
+#: short_tax_post.php:1436
+msgid "Enter Facebook profile URL"
+msgstr ""
+
+#: short_tax_post.php:1441
+msgid "Twitter"
+msgstr ""
+
+#: short_tax_post.php:1442
+msgid "Enter Twitter profile URL"
+msgstr ""
+
+#: short_tax_post.php:1449
+msgid "Google+"
+msgstr ""
+
+#: short_tax_post.php:1450
+msgid "Enter Google+ profile URL"
+msgstr ""
+
+#: short_tax_post.php:1455
+msgid "LinkedIn"
+msgstr ""
+
+#: short_tax_post.php:1456
+msgid "Enter LinkedIn profile URL"
+msgstr ""
+
+#: short_tax_post.php:1485
+msgid "Assign a User"
+msgstr ""
+
+#: short_tax_post.php:1587
+msgid "Enter agent name here"
+msgstr ""
+
+#: short_tax_post.php:1617
+msgid "Testimonials"
+msgstr ""
+
+#: short_tax_post.php:1618
+msgid "Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1619
+msgid "Add New Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1620
+msgid "Add Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1622
+msgid "Edit Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1623
+msgid "New Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1625
+msgid "View Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1626
+msgid "Search Testimonials"
+msgstr ""
+
+#: short_tax_post.php:1627
+msgid "No Testimonials found"
+msgstr ""
+
+#: short_tax_post.php:1628
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: short_tax_post.php:1629
+msgid "Parent Testimonial"
+msgstr ""
+
+#: short_tax_post.php:1646
+msgid "What the customer says"
+msgstr ""
+
+#: short_tax_post.php:1660
+msgid "Enter what the customer says here"
+msgstr ""
+
+#: short_tax_post.php:1702
+msgid "Enter customer name here"
+msgstr ""
